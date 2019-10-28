@@ -9,6 +9,7 @@
 /*  General Styling
 /*-----------------------------------------------------------------------------------*/
 body {
+  min-height: -webkit-fill-available;
   background: #ffffff;
   color: #898989;
   font-family: 'Poppins', helvetica;
