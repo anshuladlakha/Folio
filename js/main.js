@@ -91,7 +91,7 @@ $(document).ready(function() {
     typed.typed({
       strings: ["fleour."],
       typeSpeed: 120,
-      loop: false,
+      loop: 3,
     });
   });
 
