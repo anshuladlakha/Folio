@@ -10,6 +10,7 @@
 /*-----------------------------------------------------------------------------------*/
 body {
   min-height: -webkit-fill-available;
+  min-height: 100vh;
   background: #ffffff;
   color: #898989;
   font-family: 'Poppins', helvetica;
